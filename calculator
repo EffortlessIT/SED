@@ -1,0 +1,46 @@
+<h2>Seafarers Tax Calculator</h2>
+
+	
+</div><!--/.page-title-->	
+	<div class="pad group">
+		
+				
+			<article class="post-2 page type-page status-publish hentry group">
+				
+									
+				<div class="entry themeform">
+					<div class="panel-grid" id="pg-2-0" ><div class="panel-grid-cell" id="pgc-2-0-0" ><div class="panel widget widget_text panel-first-child panel-last-child" id="panel-2-0-0-0">			<div class="textwidget"><h1>Seafarers Tax Calculator</h1><br>
+The Seafarer’s Tax Calculator is the easiest and fastest way to calculate your SED (Seafarer’s Earnings Deduction). We’ve come up with the most efficient and hassle-free tax calculator.   <br>
+The website and App draws upon HMRC’s rules to determine and explain if you’re entitled to a tax return and how much. If you need a clear and uncomplicated guide to Seafarers Earnings Deduction, then look no further! 
+<link href="http://seafarerstaxcalculator.com/wp-content/plugins/calculated-fields-form/css/stylepublic.css" type="text/css" rel="stylesheet" />
+<link href="http://seafarerstaxcalculator.com/wp-content/plugins/calculated-fields-form/css/cupertino/jquery-ui-1.8.20.custom.css" type="text/css" rel="stylesheet" />
+<link href="" type="text/css" rel="stylesheet" /><form name="cp_calculatedfieldsf_pform_1" id="cp_calculatedfieldsf_pform_1" action="" method="post"><input type="hidden" name="form_structure_1" id="form_structure_1" size="180" value="[[{&quot;form_identifier&quot;:&quot;&quot;,&quot;name&quot;:&quot;fieldname1&quot;,&quot;shortlabel&quot;:&quot;&quot;,&quot;index&quot;:0,&quot;ftype&quot;:&quot;fdate&quot;,&quot;userhelp&quot;:&quot;&quot;,&quot;userhelpTooltip&quot;:false,&quot;csslayout&quot;:&quot;&quot;,&quot;title&quot;:&quot;Date of departure&quot;,&quot;predefined&quot;:&quot;&quot;,&quot;predefinedClick&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;required&quot;:false,&quot;dformat&quot;:&quot;mm/dd/yyyy&quot;,&quot;showDropdown&quot;:false,&quot;dropdownRange&quot;:&quot;-5,+5&quot;,&quot;minDate&quot;:&quot;&quot;,&quot;maxDate&quot;:&quot;&quot;,&quot;invalidDates&quot;:&quot;&quot;,&quot;minHour&quot;:0,&quot;maxHour&quot;:23,&quot;minMinute&quot;:0,&quot;maxMinute&quot;:59,&quot;stepHour&quot;:1,&quot;stepMinute&quot;:1,&quot;showTimepicker&quot;:false,&quot;defaultDate&quot;:&quot;&quot;,&quot;defaultTime&quot;:&quot;&quot;,&quot;working_dates&quot;:[true,true,true,true,true,true,true],&quot;formats&quot;:[&quot;mm/dd/yyyy&quot;,&quot;dd/mm/yyyy&quot;],&quot;fBuild&quot;:{}},{&quot;form_identifier&quot;:&quot;&quot;,&quot;name&quot;:&quot;fieldname2&quot;,&quot;shortlabel&quot;:&quot;&quot;,&quot;index&quot;:1,&quot;ftype&quot;:&quot;fdate&quot;,&quot;userhelp&quot;:&quot;&quot;,&quot;userhelpTooltip&quot;:false,&quot;csslayout&quot;:&quot;&quot;,&quot;title&quot;:&quot;Date of return&quot;,&quot;predefined&quot;:&quot;&quot;,&quot;predefinedClick&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;required&quot;:false,&quot;dformat&quot;:&quot;mm/dd/yyyy&quot;,&quot;showDropdown&quot;:false,&quot;dropdownRange&quot;:&quot;-10,+10&quot;,&quot;minDate&quot;:&quot;&quot;,&quot;maxDate&quot;:&quot;&quot;,&quot;invalidDates&quot;:&quot;&quot;,&quot;minHour&quot;:0,&quot;maxHour&quot;:23,&quot;minMinute&quot;:0,&quot;maxMinute&quot;:59,&quot;stepHour&quot;:1,&quot;stepMinute&quot;:1,&quot;showTimepicker&quot;:false,&quot;defaultDate&quot;:&quot;&quot;,&quot;defaultTime&quot;:&quot;&quot;,&quot;working_dates&quot;:[true,true,true,true,true,true,true],&quot;formats&quot;:[&quot;mm/dd/yyyy&quot;,&quot;dd/mm/yyyy&quot;],&quot;fBuild&quot;:{}},{&quot;form_identifier&quot;:&quot;&quot;,&quot;name&quot;:&quot;fieldname5&quot;,&quot;shortlabel&quot;:&quot;&quot;,&quot;index&quot;:2,&quot;ftype&quot;:&quot;fCalculated&quot;,&quot;userhelp&quot;:&quot;This is a basic calculator which adds up all of the days you have spent outside UK waters in the last six years.&quot;,&quot;userhelpTooltip&quot;:false,&quot;csslayout&quot;:&quot;&quot;,&quot;title&quot;:&quot;Total days out of the UK&quot;,&quot;predefined&quot;:&quot;&quot;,&quot;required&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;toolbar&quot;:&quot;default|mathematical&quot;,&quot;eq&quot;:&quot;abs(fieldname2-fieldname1) &quot;,&quot;optimizeEq&quot;:true,&quot;eq_factored&quot;:&quot;&quot;,&quot;suffix&quot;:&quot;&quot;,&quot;prefix&quot;:&quot;&quot;,&quot;decimalsymbol&quot;:&quot;.&quot;,&quot;groupingsymbol&quot;:&quot;&quot;,&quot;dependencies&quot;:[{&quot;rule&quot;:&quot;&quot;,&quot;complex&quot;:false,&quot;fields&quot;:[&quot;&quot;]}],&quot;readonly&quot;:false,&quot;hidefield&quot;:false,&quot;fBuild&quot;:{}}],[{&quot;title&quot;:&quot;Instructions&quot;,&quot;description&quot;:&quot;Use the form below to give a total number of days out of the UK per trip, either enter the date in the box or click back through the calender.\nUse the calculator for each trip outside UK waters then use the spreadsheet below if you have a large number of trips to add up. The spreadsheet automatically adds up each column. If it works out to more than 183 days working outside UK waters in a qualifying year, then you can apply for Seafarers Earnings Deductions.&quot;,&quot;formlayout&quot;:&quot;top_aligned&quot;,&quot;formtemplate&quot;:&quot;&quot;,&quot;evalequations&quot;:1,&quot;autocomplete&quot;:1}]]" />
+<div id="fbuilder">
+  <div id="fbuilder_1">
+      <div id="formheader_1"></div>
+      <div id="fieldlist_1"></div>
+  </div>
+</div> 
+<div class="clearer"></div> 
+</form>
+
+<b>Then use this <a href="http://seafarerstaxcalculator.com/wp-content/uploads/2014/11/Days-in-and-out-of-UK-spreadsheet-for-Seafarers-tax-Calculator.xls"><font color="blue">spreadsheet</font></a>
+ to enter your totals, this will automatically total up the columns for you.</b>
+</div>
+		</div></div></div><div class="panel-grid" id="pg-2-1" ><div class="panel-grid-cell" id="pgc-2-1-0" ><div class="panel widget widget_text panel-first-child panel-last-child" id="panel-2-1-0-0"><h3 class="widget-title">Criteria for SED</h3>			<div class="textwidget">• Working on a ship<br>
+• Must be employed (not self employed)<br>
+• Be UK resident<br>
+• Initially complete a qualifying period of 365 days<br>
+• At least 183 days must be outside of the UK<br>
+• Visit at least one foreign port per employment<br>
+• Cumulative days in the UK should not be greater than the days out of the UK</div>
+		</div></div><div class="panel-grid-cell" id="pgc-2-1-1" ><div class="panel widget widget_text panel-first-child panel-last-child" id="panel-2-1-1-0">			<div class="textwidget"><img src="http://seafarerstaxcalculator.com/wp-content/uploads/2014/11/anchor.jpg" alt="Seafarers Tax calculator" width="300" height="300">
+</div>
+		</div></div></div>					<div class="clear"></div>
+				</div><!--/.entry-->
+				
+			</article>
+			
+						
+				
+	</div><!--/.pad-->
